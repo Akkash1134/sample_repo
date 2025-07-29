@@ -10,5 +10,7 @@ System.out.println("3rd line");
      //   im updating from git
 >>>>>>> branch 'main' of https://github.com/Akkash1134/sample_repo.git
 remove the unnecessary code this file.
+
+    no git related code not placed in this file
     }
 }
